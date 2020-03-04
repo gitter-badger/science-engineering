@@ -1,5 +1,7 @@
 # Science Engineering
 
+[![Join the chat at https://gitter.im/science-engineering/community](https://badges.gitter.im/science-engineering/community.svg)](https://gitter.im/science-engineering/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 A place for scientist and engineers to freely collaborate on research. Scientists post requests for coding for their studies, and engineers can help out!
 
 ## Scientists
