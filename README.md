@@ -10,3 +10,12 @@ Need help with data analysis or coding? Make a GitHub account and [create an iss
 
 Ever wanted to help science progress with your skills? Watch this repository to be notified of scientists who need your expertise. 
 
+## Resources
+
+The emphasis is on resources where you can sign in with GitHub. Who wants more passwords to track?
+
+**GitHub/Gist**: For repos or code snippets.
+
+**Replit**: For ready made environments in several languages with the ability for users to collaborate. 
+
+**Gitter**: For chat.
